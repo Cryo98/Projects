@@ -1,6 +1,6 @@
-# Projects
+## Projects
 
-Auto Reputation Grinder for Super Power Fighting Simulator on Roblox
+# Auto Reputation Grinder for Super Power Fighting Simulator on Roblox (v1.2)
 
 - Codes:
   - 'Cryo': every 10 kills the character is reset
@@ -12,3 +12,10 @@ Auto Reputation Grinder for Super Power Fighting Simulator on Roblox
   - 'ctrl + R' (when paused):              Resume
   - 'ctrl + C':           Record a new macro (overrides the old one)
   - 'esc':                                  Exit
+
+# Autoclicker (v1.0)
+
+- Modes:
+  - Fast mode: 5 ms
+  - Slow mode: 0.1 s
+  - Afk mode: 15 min
